@@ -32,5 +32,7 @@ flatbean在CSDN中的博文  https://me.csdn.net/sinat_26076325
 <p>
 
 ![](/images/avatar.jpg)
+
+<p>
   
-![](/images/avatar.jpg)
+![](/images/posts/markdown/image1.png)
