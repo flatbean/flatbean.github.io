@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转载]HEXO进阶
+title: HEXO进阶
 tag: 博客
 ---
 
