@@ -14,25 +14,25 @@ flatbean在CSDN中的博文  https://me.csdn.net/sinat_26076325
 <br />
 
 [点击访问CSDN](https://me.csdn.net/sinat_26076325) 
-<br>
+
 
 ### flatbean在csdn中的原创博文
 <br />
 
 flatbean在CSDN中的博文  https://me.csdn.net/sinat_26076325
 <p>
-<br>
+
 <p>
 [点击访问CSDN](https://me.csdn.net/sinat_26076325) 
 
 <br/>
 
 ![image](/images/avatar.jpg)
-<br>
+
 <p>
 
 ![](/images/avatar.jpg)
-<br>
+
 <p>
   
 <br/>
