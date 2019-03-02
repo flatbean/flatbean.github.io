@@ -19,12 +19,10 @@ flatbean在CSDN中的博文  https://me.csdn.net/sinat_26076325
 
 ![](/images/avatar.jpg)
 
-<p>
+<br/>
 
 ![](/images/avatar.jpg)
 
-<p>
-  
 <br/>
 
 ![](/images/posts/markdown/image1.png)
