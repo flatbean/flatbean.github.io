@@ -28,10 +28,7 @@ flatbean在CSDN中的博文  https://me.csdn.net/sinat_26076325
 <br/>
 ![image](/images/avatar.jpg)
 <p>
+
 ![](/images/avatar.jpg)
   
 ![](/images/avatar.jpg)
-
-* iBeacon 的形状多种多样，大致如下图。
-![](/images/posts/iBeacon/iBeacon.png)
-
