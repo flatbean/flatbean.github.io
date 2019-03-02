@@ -1,7 +1,7 @@
 # Basic
 title: 扁豆荚
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+subtitle: 博客站
+description: 欢迎来到我的博客小站~
 # 头像里面的标题
 avatarTitle: flatbean
 # 头像里面的描述
@@ -22,7 +22,7 @@ social:
     # juejin: xxx
     #jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: flatbean@qq.com
+    mail: flatbean[at]qq.com
 
 
 # 百度统计 
